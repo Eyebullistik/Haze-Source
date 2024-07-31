@@ -275,7 +275,7 @@
         {
         "name": "VMWare Player 17 🛡",
         "description": "VMware Workstation Player, formerly VMware Player, was a virtualization software package for x64 computers running Microsoft Windows or Linux, supplied free of charge by VMware, Inc. VMware Player could run existing virtual appliances and create its own virtual machines.",
-        "app_icon": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.nicepng.com%2Fpng%2Fdetail%2F342-3426357_blog-gameboy-color-no-background.png&f=1&nofb=1&ipt=349d68ab5ff11f6efaeb418e17a9941053fb287b27a88a91212b1509bc9a3ec8&ipo=images",
+        "app_icon": "https://upload.wikimedia.org/wikipedia/commons/9/91/VMware_Workstation_Player_Icon.png",
         "download_link": "https://download3.vmware.com/software/WKST-PLAYER-1750/VMware-player-full-17.5.0-22583795.exe",
         "admin": true,
         "screenshots": [
@@ -288,7 +288,7 @@
         {
         "name": "Full GBC Library",
         "description": "Get all the Game Boy Color USA Releases plus Few New Game Boy Color Games.",
-        "app_icon": "https://upload.wikimedia.org/wikipedia/commons/9/91/VMware_Workstation_Player_Icon.png",
+        "app_icon": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.nicepng.com%2Fpng%2Fdetail%2F342-3426357_blog-gameboy-color-no-background.png&f=1&nofb=1&ipt=349d68ab5ff11f6efaeb418e17a9941053fb287b27a88a91212b1509bc9a3ec8&ipo=images",
         "download_link": "https://ia801807.us.archive.org/zip_dir.php?path=/35/items/gameboy-color-romset-ultra-us.zip&formats=ZIP",
         "admin": false,
         "screenshots": [
