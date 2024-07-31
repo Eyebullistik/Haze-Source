@@ -275,7 +275,7 @@
         {
         "name": "VMWare Player 17 🛡",
         "description": "VMware Workstation Player, formerly VMware Player, was a virtualization software package for x64 computers running Microsoft Windows or Linux, supplied free of charge by VMware, Inc. VMware Player could run existing virtual appliances and create its own virtual machines.",
-        "app_icon": "https://upload.wikimedia.org/wikipedia/commons/9/91/VMware_Workstation_Player_Icon.png",
+        "app_icon": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.nicepng.com%2Fpng%2Fdetail%2F342-3426357_blog-gameboy-color-no-background.png&f=1&nofb=1&ipt=349d68ab5ff11f6efaeb418e17a9941053fb287b27a88a91212b1509bc9a3ec8&ipo=images",
         "download_link": "https://download3.vmware.com/software/WKST-PLAYER-1750/VMware-player-full-17.5.0-22583795.exe",
         "admin": true,
         "screenshots": [
@@ -283,5 +283,20 @@
             "https://blogs.vmware.com/workstation/files/2020/09/WS-Blog-Header.png"
         ],
         "tabs": [ "All", "Other","Utilities", "OS", "Emulation"]
+    },
+
+     },
+        {
+        "name": "Full GBC Library",
+        "description": "Get all the Game Boy Color USA Releases plus Few New Game Boy Color Games.",
+        "app_icon": "https://upload.wikimedia.org/wikipedia/commons/9/91/VMware_Workstation_Player_Icon.png",
+        "download_link": "https://ia801807.us.archive.org/zip_dir.php?path=/35/items/gameboy-color-romset-ultra-us.zip&formats=ZIP",
+        "admin": false,
+        "screenshots": [
+            "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.90stoys.com%2Fapp%2Fuploads%2F2022%2F11%2Fbest-game-boy-color-games-header.png&f=1&nofb=1&ipt=94a876aa64619e942cbcc5e006a9046fb8d035f32cd4ed4c46f102686a41b90f&ipo=images",
+            "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fs3.amazonaws.com%2Fimages.ecwid.com%2Fimages%2F17412255%2F1596648699.jpg&f=1&nofb=1&ipt=81bf76833e10234d43918b139f3a3a922c009b14267f2183df3107d09981531c&ipo=images"
+        ],
+        "tabs": [ "All", "Emulation", "Roms"]
     }
+    
 ]
