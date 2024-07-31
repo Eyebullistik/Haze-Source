@@ -296,6 +296,19 @@
             "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fs3.amazonaws.com%2Fimages.ecwid.com%2Fimages%2F17412255%2F1596648699.jpg&f=1&nofb=1&ipt=81bf76833e10234d43918b139f3a3a922c009b14267f2183df3107d09981531c&ipo=images"
         ],
         "tabs": [ "All", "Emulation", "Roms"]
+    },
+
+     {
+        "name": "Full GB Library",
+        "description": "Get all the Game Boy USA Releases plus Few New Game Boy Games.",
+        "app_icon": "https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fwww.thealmightyguru.com%2FWiki%2Fimages%2Fthumb%2F9%2F93%2FGame_Boy_-_Original.png%2F741px-Game_Boy_-_Original.png&f=1&nofb=1&ipt=3aa1c2cf26e3315c588864e8490a49a349184c7cca49719a5bc2dd8d3df0397c&ipo=images",
+        "download_link": "https://ia801801.us.archive.org/zip_dir.php?path=/4/items/game-boy-romset-ultra-us.zip&formats=ZIP",
+        "admin": false,
+        "screenshots": [
+            "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimages.nintendolife.com%2F48574f8b3f601%2F1280x720.jpg&f=1&nofb=1&ipt=0a88d1f26907ad228d572364f5b98a237e66dd52fbc2eb25cf545a170d935fdc&ipo=images",
+            "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%3Fid%3DOIP.0aMNSvFQmuAOoxv86w8tLAHaEJ%26pid%3DApi&f=1&ipt=72cea12d8a14ce62199dc87a75e208e049289bba49067f15837f74b375b67be2&ipo=images"
+        ],
+        "tabs": [ "All", "Emulation", "Roms"]
     }
     
 ]
