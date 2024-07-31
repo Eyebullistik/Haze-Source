@@ -231,7 +231,7 @@
             "https://i.redd.it/feewydthwwn51.jpg",
             "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSi9DdmgMof9zbiVuG63baAhezCd7XRTQ632w&usqp=CAU"
         ],
-        "tabs": ["All", "Games", "Other", "Emulation"]
+        "tabs": ["All", "Other", "Emulation"]
     },
     
     {
@@ -244,7 +244,7 @@
             "https://cdn2.steamgriddb.com/grid/7265f227cde5553ea4be953481de9d02.png",
             "https://www.wikihow.com/images/thumb/b/bb/Use-and-Set-up-VisualBoy-Advance-Step-8-Version-3.jpg/v4-460px-Use-and-Set-up-VisualBoy-Advance-Step-8-Version-3.jpg.webp"
         ],
-       "tabs": ["All", "Games", "Other", "Emulation"]
+       "tabs": ["All", "Other", "Emulation"]
     },
 
      {
@@ -257,7 +257,7 @@
             "https://i0.wp.com/wololo.net/wagic/wp-content/uploads/2022/05/retroarch_ps4.jpg?resize=1024%2C573&ssl=1",
             "https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/01/Retroarch-Cheats-Featured.jpg"
         ],
-       "tabs": ["All", "Games", "Other", "Emulation"]
+       "tabs": ["All", "Other", "Emulation"]
     },
 
          {
@@ -270,7 +270,7 @@
             "https://i.redd.it/x7fjj6y331081.png",
             "https://static.miraheze.org/horizonwiki/c/c3/Dolphin_running.jpg"
         ],
-       "tabs": ["All", "Games", "Other", "Emulation"]
+       "tabs": ["All", "Other", "Emulation"]
     },
         {
         "name": "VMWare Player 17 🛡",
