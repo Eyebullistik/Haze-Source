@@ -1,7 +1,7 @@
 {
     "apps": [
         {
-            "appName": "Fortnite ",
+            "appName": "Fortnite-",
             "developer": "Epic Games",
             "version": "v31.00.1",
             "requiresentitlements": "yes",
@@ -14,7 +14,7 @@
             ]
         },
         {
-            "appName": "Fall Guys ",
+            "appName": "Fall Guys-",
             "developer": "Epic Games, Mediatonic, Ltd.",
             "version": "v11.1.4",
             "requiresentitlements": "no",
