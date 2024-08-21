@@ -25,6 +25,19 @@
                 "https://cdn2.unrealengine.com/cmp-winterevent-2023-social-1920x1080-1920x1080-29ca88532578.jpeg",
                 "https://gmedia.playstation.com/is/image/SIEPDC/fall-guys-ultimate-knockout-s4-keyart-01-en-17apr23?$native$"
             ]
+        },
+        {
+            "appName": "Scarlet-",
+            "developer": "",
+            "version": "v1.0",
+            "requiresentitlements": "no",
+            "downloadLink": "https://resources.usescarlet.com/repo/IPAs/ScarletAlpha.ipa",
+            "iconLink": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fusescarlet.com%2Ficon.png&f=1&nofb=1&ipt=fd9509f6a473a97e53c2a7c9c3cf0cd603dc91fb1c28ef8664a6dcda19b16de0&ipo=images",
+            "description": " Scarlet is a third-party iOS app installer. This substitute app store boasts a vast collection of IPA apps and games, providing users with the opportunity to download apps that are not accessible through the official App Store. The app is user-friendly and can be used seamlessly with both iPhone and iPad. Users can sign and set up IPA files on their IOS devices. This characteristic can be particularly beneficial for developers, and the application is designed to be user-friendly.",
+            "screenshotLinks": [
+                "https://usescarletapp.com/wp-content/uploads/2023/06/Scarlet-hero-shot.png",
+                "https://usescarletapp.com/wp-content/uploads/2023/06/Hand2-Dark-1.png"
+            ]
         }
     ]
 }
